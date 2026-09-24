@@ -1,0 +1,8 @@
+{
+  "name": "provost-office-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Provost Office Management and Correspondence System with SQLite backend",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node": ">=22.5.0"}
+}
